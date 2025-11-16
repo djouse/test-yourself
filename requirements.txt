@@ -1,0 +1,11 @@
+langchain>=0.1  
+pytesseract
+pdf2image
+pillow
+sentence-transformers
+transformers
+tqdm
+uvicorn
+fastapi
+pytest
+python-dotenv
